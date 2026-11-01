@@ -1,0 +1,6 @@
+{
+  "name": "NORAT LOTTERY 3D",
+  "description": "Hệ thống xổ số 3D đa người chơi thời gian thực với máy quay vật lý 3D, 5 trò chơi xổ số, ví tiền ảo, âm thanh sống động và bảng quản trị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
